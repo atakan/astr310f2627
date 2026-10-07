@@ -1,6 +1,7 @@
-This is a repo for codes during a session for ASTR310, fall 25-26 academic year.
+This is a repo for codes during a session for ASTR310, fall 26-27 academic year.
 
-Codes
-=====
+Directories
+===========
+plotting/: example(s) for plotting.
 
-euler1.py: 
+
